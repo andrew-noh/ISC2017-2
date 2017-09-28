@@ -8,4 +8,4 @@ Processing으로 코딩 배우기
 
 개인과제
 
-1. [픽셀로 그림 그리기](/Assignments/assignment1 .md)
+1. [픽셀로 그림 그리기](/Assignments/assignment1.md)
